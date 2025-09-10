@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1757507247399fvfjyovb3",
+    "userId": "1757504398696",
+    "achievementType": "first_expense",
+    "title": "🎯 First Expense Added!",
+    "description": "You've tracked your first expense. Great start!",
+    "icon": "🎯",
+    "rarity": "common",
+    "unlockedAt": "2025-09-10T12:27:27.399Z"
+  },
+  {
+    "id": "1757507247401nbmaqah7p",
+    "userId": "1757504398696",
+    "achievementType": "saver_20",
+    "title": "🔥 Smart Saver",
+    "description": "Saved 20% this month. You're on fire!",
+    "icon": "🔥",
+    "rarity": "rare",
+    "unlockedAt": "2025-09-10T12:27:27.401Z"
+  },
+  {
+    "id": "1757507247402wa99xy7wi",
+    "userId": "1757504398696",
+    "achievementType": "big_spender",
+    "title": "💳 Big Spender",
+    "description": "Tracked over $1,000 in expenses. Knowledge is power!",
+    "icon": "💳",
+    "rarity": "rare",
+    "unlockedAt": "2025-09-10T12:27:27.402Z"
+  }
+]

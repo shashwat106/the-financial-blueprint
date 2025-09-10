@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1757507245712",
+    "userId": "1757504398696",
+    "amount": 1000,
+    "category": "Food",
+    "description": "goof",
+    "date": "2025-09-10",
+    "createdAt": "2025-09-10T12:27:25.712Z"
+  },
+  {
+    "id": "1757508459318",
+    "userId": "1757508179615",
+    "amount": 1000,
+    "category": "Housing",
+    "description": "NEW HOUSE",
+    "date": "2025-09-10",
+    "createdAt": "2025-09-10T12:47:39.318Z"
+  }
+]
